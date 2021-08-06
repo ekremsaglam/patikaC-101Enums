@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\eNum.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\eNum.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\eNum.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\eNum.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\eNum.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\ref\eNum.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\bin\Debug\net5.0\eNum.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\ref\eNum.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\eNum\obj\Debug\net5.0\eNum.genruntimeconfig.cache
